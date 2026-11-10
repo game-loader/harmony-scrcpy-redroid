@@ -1,0 +1,10 @@
+node_modules/
+.hvigor/
+build/
+.cxx/
+local.properties
+oh-package-lock.json5
+*.hap
+__pycache__/
+out.h264
+frame.png

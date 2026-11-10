@@ -1,0 +1,6 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "scrcpy client" },
+    { "name": "app_name", "value": "远程安卓" }
+  ]
+}
